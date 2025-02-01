@@ -1,0 +1,54 @@
+#Elementos que puede ser ignorados en Git para un proyecto en C++ :
+
+# Archivos de compilación
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+
+# Prerequisites
+*.d
+
+# Ejecutables
+*.exe
+*.out
+*.app
+
+# Archivos de depuración y logs
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Fortran module files
+*.mod
+*.smod  
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Archivos de CMake y Make
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Directorios de compilación
+/build/
+/bin/
+/dist/
+
+# Archivos de configuraciones locales de editores e IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos específicos del sistema operativo
+.DS_Store  # macOS
+Thumbs.db  # Windows
+desktop.ini  # Windows
+
