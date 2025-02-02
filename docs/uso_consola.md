@@ -37,11 +37,13 @@ Ejemplo cd ~
 ♡ mkdir: Es el que permite crear un directorio.
 
 ![alt text](image-6.png)
+
 ![alt text](image-7.png)
 
 ♡ touch: Es el que permite crear un archivo (touch + "nombre del archivo"."atajo del archivo[txt, png, md etc]).
 
 ![alt text](image-8.png)
+
 ![alt text](image-9.png)
 
 ♡ mv: Es el que permite mover o renombrar un archivo.
@@ -52,6 +54,7 @@ Para mover de lugar: mv nombre_origen nombre_destino.
 Para cambiar de nombre: mv nombre_actual nombre_nuevo.
 
 ![alt text](image-10.png)
+
 ![alt text](image-11.png)
 
 ♡ find: Es el que permite encontrar un archivo (find. name "nombre archivo").
@@ -65,11 +68,13 @@ Si se desea buscar un documento con  cierta extensión debe colocarse el comando
 rm "nombre del archivo" (borrar un documento)
 
 ![alt text](image-15.png)
+
 ![alt text](image-17.png)
 
 rm -r "nombre del directorio" (borrar un directorio y toda la información que este contenga)
 
 ![alt text](image-18.png)
+
 ![alt text](image-19.png)
 
 ♡ vim: Es el que permite editar un documento.
@@ -90,5 +95,6 @@ q: salir sin guardar.
 ♡ clear: Es el que permite limpiar el directorio local en el momento que se desee.
 
 ![alt text](image-20.png)
+
 ![alt text](image-21.png)
 
