@@ -4,7 +4,7 @@ En este documento se realizará mención de los comandos básicos que deben ser 
 
 ♡ pwd: Es el que permite conocer en que directorio uno se encuentra en ese preciso momento.
 
-![alt text](image-1.png)
+![Imagen 1](../images/image-1.png)
 
 Como se vió en el ejemplo, pwd permite evidenciar la ubicación de las carpetas-subcarpetas en las que uno se encuentra.
 
