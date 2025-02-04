@@ -8,17 +8,17 @@ Además, también a través de este proyecto se dan los fundamentos para aprende
  
 Para la ejecución de este proyecto debieron seguirse los siguientes pasos:
 
-♡  Se clonó el respectivo repositorio remoto adjuntado por el docente en "Git hub" y se añadió al repositorio local empleando el comando " git clone + link repositorio".
+♡  Se clonó el respectivo repositorio remoto adjuntado por el docente en "Git Hub" y se añadió al repositorio local empleando el comando `" git clone + link repositorio"`.
 
-♡ Con el repositorio ya añadido se crearon los archivos y carpetas requeridos para adjuntar la información con los comandos "touch" y "mkdir" dentro de la carpeta principal en la que se encuentra el repositorio. 
+♡ Con el repositorio ya añadido se crearon los archivos y carpetas requeridos para adjuntar la información con los comandos `"touch"` y `"mkdir"` dentro de la carpeta principal en la que se encuentra el repositorio. 
 
-♡ Con los archivos y carpetas ya creados se comenzó la edición de estos, accediendo a través de "cd" y añadiendoles la información respectiva  con los comandos de edición "vim" y "code .".
+♡ Con los archivos y carpetas ya creados se comenzó la edición de estos, accediendo a través de `"cd"` y añadiendoles la información respectiva  con los comandos de edición `"vim"` y `"code ."`.
 
-♡ Con los archivos y carpetas ya editadas con toda su respectiva información se añadieron al repositorio local, para esto se emplearon los comandos "git add" y "git commit -m ("nombre del commit")".
+♡ Con los archivos y carpetas ya editadas con toda su respectiva información se añadieron al repositorio local, para esto se emplearon los comandos `"git add"` y `"git commit -m ("nombre del commit")"`.
 
-♡  Para la revisión durante todo el proceso de los commits y del estado general del repositorio se emplearon los comandos "git status" y "git log".
+♡  Para la revisión durante todo el proceso de los commits y del estado general del repositorio se emplearon los comandos `"git status"` y `"git log"`.
 
-♡ Finalmente, cuando ya se tuvo la información actualizada y completa en el repositorio local este se añadió al repositorio remoto (en Git hub) empleando el comando "git push".
+♡ Finalmente, cuando ya se tuvo la información actualizada y completa en el repositorio local este se añadió al repositorio remoto (en Git Hub) empleando el comando `"git push"`.
 
 Tabla de contenido del proyecto:
 
